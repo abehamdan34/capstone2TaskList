@@ -1,0 +1,11 @@
+C:\Users\abeis\source\repos\CapStone2TaskList\obj\Debug\netcoreapp3.1\CapStone2TaskList.csprojAssemblyReference.cache
+C:\Users\abeis\source\repos\CapStone2TaskList\obj\Debug\netcoreapp3.1\CapStone2TaskList.AssemblyInfoInputs.cache
+C:\Users\abeis\source\repos\CapStone2TaskList\obj\Debug\netcoreapp3.1\CapStone2TaskList.AssemblyInfo.cs
+C:\Users\abeis\source\repos\CapStone2TaskList\bin\Debug\netcoreapp3.1\CapStone2TaskList.exe
+C:\Users\abeis\source\repos\CapStone2TaskList\bin\Debug\netcoreapp3.1\CapStone2TaskList.deps.json
+C:\Users\abeis\source\repos\CapStone2TaskList\bin\Debug\netcoreapp3.1\CapStone2TaskList.runtimeconfig.json
+C:\Users\abeis\source\repos\CapStone2TaskList\bin\Debug\netcoreapp3.1\CapStone2TaskList.runtimeconfig.dev.json
+C:\Users\abeis\source\repos\CapStone2TaskList\bin\Debug\netcoreapp3.1\CapStone2TaskList.dll
+C:\Users\abeis\source\repos\CapStone2TaskList\bin\Debug\netcoreapp3.1\CapStone2TaskList.pdb
+C:\Users\abeis\source\repos\CapStone2TaskList\obj\Debug\netcoreapp3.1\CapStone2TaskList.dll
+C:\Users\abeis\source\repos\CapStone2TaskList\obj\Debug\netcoreapp3.1\CapStone2TaskList.pdb
